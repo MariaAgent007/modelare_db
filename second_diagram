@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T08:28:59.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_i5v8TJg8z7hKXPfVTgv" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T08:53:22.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OArCPjEVueXZL552mUma" version="22.1.4" type="github">
   <diagram name="Page-1" id="F6NUtUY92qUoHkzAtrC9">
-    <mxGraphModel dx="1354" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="280" y="320" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jHpGTbVBMTI-42iEaomU-8" value="Bbliotecară" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="720" y="370" width="100" height="100" as="geometry" />
+          <mxGeometry x="590" y="400" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jHpGTbVBMTI-42iEaomU-9" value="Consilier elevi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="250" width="100" height="100" as="geometry" />
