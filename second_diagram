@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T07:33:19.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.4" etag="vILbkufL6kL6daaslQm_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T07:38:44.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Km4YtfqIyyhAPyV3wyzy" version="22.1.4" type="github">
   <diagram name="Page-1" id="F6NUtUY92qUoHkzAtrC9">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jHpGTbVBMTI-42iEaomU-1" value="Școală" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jHpGTbVBMTI-42iEaomU-2" value="Elevi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jHpGTbVBMTI-42iEaomU-3" value="Profesori" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="325" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jHpGTbVBMTI-42iEaomU-4" value="Părinți" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jHpGTbVBMTI-42iEaomU-5" value="Director" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jHpGTbVBMTI-42iEaomU-6" value="Director adjunct" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jHpGTbVBMTI-42iEaomU-7" value="Secretară&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jHpGTbVBMTI-42iEaomU-8" value="Bbliotecară" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
